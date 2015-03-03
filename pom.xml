@@ -49,7 +49,12 @@
             <version>0.9.9-RC2</version>
             <scope>compile</scope>
         </dependency>
-    </dependencies>
+      <dependency>
+          <groupId>org.mortbay.jetty</groupId>
+          <artifactId>jetty-util</artifactId>
+          <version>6.1.25</version>
+      </dependency>
+  </dependencies>
 
     <build>
         <plugins>
