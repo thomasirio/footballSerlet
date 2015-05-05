@@ -15,6 +15,7 @@ public class Partita {
     private String amministratore3;
     private String provincia2;
     private String ora2;
+    private String ciao;
     
     public Partita(){}
 
