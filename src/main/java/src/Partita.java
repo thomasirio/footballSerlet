@@ -12,7 +12,7 @@ public class Partita {
     private String data;
     private String ora;
     private String amministratore;
-    private String amministratore2;
+    private String amministratore3;
 
     public Partita(){}
 
